@@ -7,6 +7,8 @@ A Substance Painter plugin for importing DDS files. It converts DDS to PNG, extr
 - This plugin helps users easily import DDS textures to their shelf as session resources by converting them to PNGs. It also extracts alpha channels and imports them as separate resources.
 - If needed, it can decode and reconstruct the Z channel of BC5 DDS textures. This feature is particularly useful for Fallout 4, Fallout 76, and Starfield normal maps. Once processed, these textures are also imported as session resources.
 
+![plugin widget](https://staticdelivery.nexusmods.com/mods/2295/images/1136/1136-1736014789-1761523767.png)
+
 **Requirements:**
 - [DirectXTex for TexConv](https://github.com/microsoft/DirectXTex)
 - [Fo76Utils for BcDecode](https://github.com/fo76utils/fo76utils)
